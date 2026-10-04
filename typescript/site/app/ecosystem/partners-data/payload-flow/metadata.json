@@ -1,0 +1,7 @@
+{
+  "name": "Payload Flow",
+  "category": "Infrastructure & Tooling",
+  "logoUrl": "/logos/payload-flow.png",
+  "description": "Open-source (MIT) programmable revenue infrastructure: computes exact entitlements from x402 payment events and proposes distributions, never holding or moving funds. Processed two real EIP-3009 0.10 USDC settlements on Base Sepolia with exact conservation and a hash-chained ledger.",
+  "websiteUrl": "https://github.com/Payloadhq/payload-flow"
+}
